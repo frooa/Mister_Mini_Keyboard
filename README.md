@@ -5,3 +5,5 @@ You can modify it to your needs, or even add a custom 3d printed piece (which is
 
 
 Have fun.
+
+Diagram and images done with easyeda. 
